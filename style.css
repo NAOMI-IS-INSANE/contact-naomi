@@ -15,7 +15,7 @@ table, th, td {
     display: block;
 }
 
-@media only screen and (min-width: 950px) {
+@media only screen and (min-width: 960px) {
     .shrink {
         display: none;
     }
