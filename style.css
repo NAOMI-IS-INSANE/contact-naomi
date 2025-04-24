@@ -1,12 +1,22 @@
 @media (prefers-color-scheme: dark) {
-  body {
-    background-color: #313131;
-    color: white;
-  }
+    body {
+        background-color: #313131;
+        color: white;
+    }
+
+    .shrink {
+        display: none;
+    }
 }
 
 table, th, td {
-  border-style: solid;
-  border-width: 1px;
-  border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+@media only screen and (min-width: 950px) {
+    .shrink {
+        display: solid;
+    }
 }
