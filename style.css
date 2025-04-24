@@ -3,10 +3,10 @@
         background-color: #313131;
         color: white;
     }
+}
 
-    .shrink {
-        display: none;
-    }
+.shrink {
+    display: none;
 }
 
 table, th, td {
@@ -17,6 +17,6 @@ table, th, td {
 
 @media only screen and (min-width: 950px) {
     .shrink {
-        display: solid;
+        display: block;
     }
 }
