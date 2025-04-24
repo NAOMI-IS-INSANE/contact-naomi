@@ -10,6 +10,7 @@ Service | Contactability | Availability
 SMS|🟩🟩🟩🟩🟩 10/10, I just need my phone |If you are close ask me or a friend in person for my number
 Signal|🟩🟩🟩🟩⬛ 9/10, I need my phone and data|If you are close ask ONLY ME in person for my signal
 Telegram|🟨🟨🟨⬛⬛ 6/10, I only check occasionally|If you are close ask ONLY ME in person for my telegram
+
 !!! warning If you are a friend of mine please do not share any of my contact details to people you haven't met in person.
 
 ## Social Media
