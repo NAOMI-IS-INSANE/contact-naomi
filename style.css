@@ -11,6 +11,10 @@ table, th, td {
     border-color: black;
 }
 
+.shrink {
+    display: block;
+}
+
 @media only screen and (min-width: 950px) {
     .shrink {
         display: none;
